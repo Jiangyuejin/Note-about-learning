@@ -1,3 +1,7 @@
 # Note-about-learning
 
-> 记录学习过程中的笔记，好记性不如烂笔头
+> 多学习啊
+
+# 1. STM32
+
+![image-20240701193833263](https://gitee.com/wheremy/blog-image/raw/master/img/20240701193840.png)
