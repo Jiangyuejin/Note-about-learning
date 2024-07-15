@@ -53,7 +53,8 @@ void PWM_Init(void)
 
 /*
 *       函   数:  PWM设置CRR
-*       注   意：      CRR ARR共同决定占空比 = CRR / (ARR + 1)
+*       注   意： CRR ARR共同决定占空比 = CRR / (ARR + 1)
+*                 此函数默认输出频率不变，通过
 */
 
 void PWM_SetCompare1(uint16_t Compare)   
